@@ -1,0 +1,1 @@
+Download all files to a Matlab accessible directory. Run HBexample from the Matlab prompt.
